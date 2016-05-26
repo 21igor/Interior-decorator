@@ -5,3 +5,21 @@ img {
   width: 300px;
   float: left;
 }
+
+.background1 {
+  margin: 4px;
+  padding: 3px;
+  background-color: red;
+}
+
+.background2 {
+  margin: 4px;
+  padding: 3px;
+  background-color: orange;
+}
+
+.background3 {
+  margin: 4px;
+  padding: 3px;
+  background-color: green;
+}
